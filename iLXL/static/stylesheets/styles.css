@@ -1,0 +1,36 @@
+header1{
+    background: #01426A;
+    background-position: top;
+    color: white;
+    display: block;
+    height: 150px;
+    margin:0;
+    width: 100%;
+    font-size: 24px;
+  
+  
+  }
+  .headLogo{
+    height:140px;
+    width:384px;
+    object-position: left center;
+    padding: 10px;
+    z-index: 1;
+  }
+  a{
+      color:white;
+  }
+
+  nav1{
+    z-index: 2;
+    color: white;
+  }
+  nav2{
+    z-index: 3;
+    color: white;
+  }
+  nav3{
+    z-index: 4;
+    color: white;
+  }
+  
